@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Laxman Gundu
+- 🔭 I’m currently working at Amazon
 - 👀 I’m interested in DevOps Engineer
 - 🌱 I’m currently learning Python & Linux
 - 💞️ I’m looking to collaborate on DevOps, Open Source Projects
