@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Laxman Gundu
 - 👀 I’m interested in DevOps Engineer
 - 🌱 I’m currently learning Python & Linux
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on DevOps, Open Source Projects
 - 📫 How to reach me laxmangundu40@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Laxman
 - ⚡ Fun fact: ...
 
 <!---
